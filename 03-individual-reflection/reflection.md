@@ -6,7 +6,7 @@
 
 - Họ và tên: Đàm Quang Trung
 - Mã học viên: 2A202602525
-- Nhóm: Nhóm 5 (Vinh, Chung, Cường, Minh, Trung)
+- Nhóm: Nhóm 5B
 - Candidate problem nhóm chọn: Người dùng mất quá nhiều thời gian để chọn món ăn phù hợp với khẩu vị, ngân sách, vị trí và thời gian hiện tại.
 
 ---
