@@ -34,7 +34,7 @@
 |9|AI có thể tốt hơn|Setup lại môi trường chạy project khi đổi máy hoặc clone lại từ đầu|Tôi + thành viên nhóm|\~30-45 phút/lần, xảy ra 2-3 lần/học kỳ|
 |10|Lặp lại|Tổng hợp danh sách đăng ký hoạt động CLB từ form + tin nhắn rải rác|Ban tổ chức CLB|Ước lượng 20-30 phút/sự kiện, vài sự kiện mỗi kỳ (xác nhận lại với ban tổ chức)|
 
-> \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*Ghi chú giả định:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\* các con số gắn nhãn "ước lượng" chưa được bấm giờ. Trước khi nộp, tôi sẽ đo lại ít nhất 3 dòng (#1, #2, #3) bằng cách bấm giờ ở lần làm tiếp theo và đếm lại lịch sử Discord, rồi thay số thật vào bảng.
+> **Ghi chú giả định:** các con số gắn nhãn "ước lượng" chưa được bấm giờ. Trước khi nộp, tôi sẽ đo lại ít nhất 3 dòng (#1, #2, #3) bằng cách bấm giờ ở lần làm tiếp theo và đếm lại lịch sử Discord, rồi thay số thật vào bảng.
 
 **AI đã dùng ở Phase 1 (nếu có):**
 
@@ -90,7 +90,7 @@ Current workflow 3-7 bước:
 
 Bottleneck:
 Bước 3 — đối chiếu thủ công. Rubric Day02 có 9 mục self-check nằm rải ở 3 file khác
-nhau, phải nhảy qua lại giữa README và file báo cáo. Ước lượng \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\~20 phút/lần và vẫn
+nhau, phải nhảy qua lại giữa README và file báo cáo. Ước lượng ~20 phút/lần và vẫn
 sót, vì mắt người đọc form trắng dễ lướt qua.
 
 Impact:
@@ -100,7 +100,7 @@ cảnh báo nào trước hạn. Theo rubric, bài như vậy rơi thẳng vào 
 người học có hiểu bài hay không.
 
 Success metric:
-- Thời gian rà soát: từ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\~20 phút xuống dưới 5 phút/lần nộp.
+- Thời gian rà soát: từ ~20 phút xuống dưới 5 phút/lần nộp.
 - Guard metric: số mục rubric bị bỏ sót khi nộp = 0, và số cảnh báo sai (báo thiếu
   trong khi thực tế đã có) dưới 1 mục/lần — tránh việc rà nhanh hơn bằng cách bỏ sót
   nhiều hơn.
